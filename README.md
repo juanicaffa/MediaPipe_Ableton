@@ -9,7 +9,7 @@ INSTALACION:
 
 1. Clonar el Repositorio
 
-git clone https://github.com/Juanicaffa/mediapipe-osc-controller.git
+git clone https://github.com/juanicaffa/MediaPipe_Ableton.git
 cd mediapipe-osc-controller
 
 2. Crear y Activar Entorno Virtual (Recomendado)
